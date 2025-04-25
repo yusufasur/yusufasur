@@ -6,9 +6,9 @@
 
 <!-- <p align="center"> <img src="https://komarev.com/ghpvc/?username=yusufasur&label=Profile%20views&color=0e75b6&style=flat" alt="yusufasur" /> </p>-->
 
-<div align="center">
+<!--<div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=yusufasur.yusufasur&left_text=Profile%20Views"  />
-</div>
+</div>-->
 
 <!--<img src="https://raw.githubusercontent.com/yusufasur/yusufasur/main/assets/avatar.jpeg" width="120" align="right" style="border-radius: 50%; box-shadow: 0 0 8px rgba(0,0,0,0.3);" />-->
 
