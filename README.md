@@ -88,7 +88,6 @@
 
 ---
 
-<!--
 ## 🐍 Contribution Snake
 <p align="center">
   <picture>
@@ -97,8 +96,8 @@
     <img alt="github-snake" src="https://raw.githubusercontent.com/yusufasur/yusufasur/output/github-snake.svg" />
   </picture>
 </p>
--->
 
+<!--
 ## 🟡 Contribution Game
 
 <picture>
@@ -106,6 +105,7 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yusufasur/yusufasur/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/yusufasur/yusufasur/output/pacman-contribution-graph.svg">
 </picture>
+-->
 
 ---
 
